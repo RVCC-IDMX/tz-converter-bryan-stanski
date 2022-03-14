@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/RVCC-IDMX/tz-converter-bryan-stanski/issues"
   },
-  "homepage": "https://github.com/RVCC-IDMX/tz-converter-bryan-stanski#readme"
+  "homepage": "https://github.com/RVCC-IDMX/tz-converter-bryan-stanski#readme",
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4"
+  }
 }
