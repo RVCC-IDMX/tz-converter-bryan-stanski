@@ -1,0 +1,20 @@
+{
+  "name": "tz-converter-bryan-stanski",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RVCC-IDMX/tz-converter-bryan-stanski.git"
+  },
+  "keywords": [],
+  "author": "Bryan Stanski <bryan.with.a.wi@gmail.com> (https://github.com/bryan-stanski)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RVCC-IDMX/tz-converter-bryan-stanski/issues"
+  },
+  "homepage": "https://github.com/RVCC-IDMX/tz-converter-bryan-stanski#readme"
+}
